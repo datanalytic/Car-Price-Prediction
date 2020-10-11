@@ -1,0 +1,2 @@
+# Car-Price-Prediction
+The project aims to conduct a robust predictive model so as to predict the right prices of the cars. The project has 2 phases to reach its goal. First phase focuses on just certain types of cars. Second phase deals with any kind of cars in the sector. On the other hand, However, the features (variables) of this dataset were too messy and distored. Therefore, first phase of the project had to spend more time time than expected as it deals with EDA processes!
